@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Cherry Royale</string>
+    <string name="title_activity_main">Cherry Royale</string>
+    <string name="package_name">fun.cherry.royale</string>
+    <string name="custom_url_scheme">fun.cherry.royale</string>
+</resources>
